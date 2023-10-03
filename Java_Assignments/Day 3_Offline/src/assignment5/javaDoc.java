@@ -3,7 +3,7 @@ package assignment5;
 public class javaDoc {
 
 	public static void main(String[] args) {
-		String userName = "Rakshit";
+		String userName = "Dhanuj";
 		System.out.println("Length: "+userName.length());
 		System.out.println("Hi "+userName);
 		System.out.println(userName.toLowerCase());
