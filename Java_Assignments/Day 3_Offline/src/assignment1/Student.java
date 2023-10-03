@@ -32,10 +32,10 @@ public class Student {
 	}
 
 	public static void main(String[] args) {
-		Student studentOne = new Student('D', "Bony", "Thomas");
+		Student studentOne = new Student('A', "Dhanuj", "Renganathan");
 		studentOne.displayDetails(studentOne);
 		
-		Student studentTwo = new Student('H', "Dinil", "Bose");
+		Student studentTwo = new Student('B', "Sandhya", "Sundar");
 		studentTwo.displayDetails(studentTwo);
 
 	}
