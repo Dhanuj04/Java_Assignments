@@ -22,7 +22,7 @@ public class Hostelite extends Student{
 	}
 	
 	public static void main(String[] args) {
-		Hostelite obj = new Hostelite(1, 'A', "Rakshit", 1000, "ABC", 123);
+		Hostelite obj = new Hostelite(1, 'A', "Dhanuj", 1000, "ABC", 123);
 		System.out.println("Id: "+obj.getStudentId());
 		System.out.println("Type: "+obj.getStudentType());
 		System.out.println("Name: "+obj.getStudentName());
