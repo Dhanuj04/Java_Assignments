@@ -5,7 +5,7 @@ public class PackageEx {
 		Student student=new Student(); 
 		student.setStudentId(1001); 
 		student.setStudentType('D'); 
-		student.setStudentName("Thomas"); 
+		student.setStudentName("Dhanuj"); 
 		student.getDetails(); 
 	}
 }
