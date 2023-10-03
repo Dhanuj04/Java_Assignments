@@ -42,8 +42,8 @@ class DynamicEx {
 		DayScholar dayScholar = new DayScholar();
 		dayScholar.setStudentId(1001);
 		dayScholar.setStudentType('D');
-		dayScholar.setStudentName("Thomas");
-		dayScholar.setResAddress("NO 32/3 Vijyanagar");
+		dayScholar.setStudentName("Dhanuj");
+		dayScholar.setResAddress("NO 32/3 Gandhinagar");
 		dayScholar.getDetails();
 	}
 }
