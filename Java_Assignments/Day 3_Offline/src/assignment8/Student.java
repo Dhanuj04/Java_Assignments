@@ -68,7 +68,7 @@ public class Student {
 
 
 	public static void main(String[] args) {
-		Student student = new Student(1, 'A', "Rakshit", "Kaushik");
+		Student student = new Student(1, 'A', "Sandhya", "Dhanuj");
 		student.setResidentalStatus("Hostelite");
 		if(student.getResidentialStatus().equalsIgnoreCase("Day Scholar"))
 			student.calculateFees(1000.0);
