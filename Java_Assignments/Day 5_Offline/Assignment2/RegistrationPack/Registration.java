@@ -5,7 +5,7 @@ class Registration{
 		DayScholar dayScholar=new DayScholar(); 
 		dayScholar.setStudentId(1001); 
 		dayScholar.setStudentType('D'); 
-		dayScholar.setStudentName("Dinil"); 
+		dayScholar.setStudentName("Dhanuj"); 
 		dayScholar.getDetails(); 
 	}
 } 
